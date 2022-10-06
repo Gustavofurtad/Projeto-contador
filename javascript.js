@@ -23,7 +23,7 @@ function clicar(){
         }else{
             //CONTAGEM DECRESCENTE
         while(fim<=c){
-            tela1.innerHTML += ` ${c}  \u{1F499}`
+            tela1.innerHTML += ` ${c}  \u{1F449}`
             c-=passo
         }
         
