@@ -18,7 +18,7 @@ function clicar(){
         if(inicio < fim){
             //CONTAGEM CRESCENTE 
             for(var c = inicio; c <= fim; c += passo){
-            tela1.innerHTML += ` ${c} \u{1F499}`
+            tela1.innerHTML += ` ${c} \u{1F449}`
         }
         }else{
             //CONTAGEM DECRESCENTE
